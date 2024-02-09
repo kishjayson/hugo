@@ -1,0 +1,12 @@
+baseURL = 'https://holy-hugo-demo.onrender.com/'
+languageCode = 'en-us'
+title = 'holy'
+theme = 'holy'
+
+[menu]
+
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		url = "/about/"
+		weight = 10
